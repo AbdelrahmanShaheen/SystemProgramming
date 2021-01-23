@@ -1,0 +1,2 @@
+
+int Copy(int  ,char **);
